@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\bin\Debug\net6.0\EFCoreTutorial.Data.deps.json
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\bin\Debug\net6.0\EFCoreTutorial.Data.runtimeconfig.json
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\bin\Debug\net6.0\EFCoreTutorial.Data.dll
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\bin\Debug\net6.0\EFCoreTutorial.Data.pdb
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.dll
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\refint\EFCoreTutorial.Data.dll
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.pdb
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\EFCoreTutorial.Data.genruntimeconfig.cache
+C:\Users\user\source\repos\StajApi\src\EFCoreTutorial.Data\obj\Debug\net6.0\ref\EFCoreTutorial.Data.dll
