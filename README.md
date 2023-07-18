@@ -57,3 +57,8 @@ http://localhost:5000
 4. To delete a location, click on the delete button associated with the location on the map or in the details view.
 5. Use the API endpoints at http://localhost:5000/api/location to interact with the locations programmatically.
 
+## License
+This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+
+## Issues, Feature Requests or Support
+Please use the [New Issue](https://github.com/selinvuslat/mini-openlayers-api/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to selinvuslat@gmail.com.
